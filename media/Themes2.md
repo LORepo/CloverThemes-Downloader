@@ -96,7 +96,7 @@
  </div>
 </footer>
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
-  <h2>BW-BGM_SVG / Clovy</h2>
+  <h2>BGM_SVG / Clovy</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
       <img src="https://raw.githubusercontent.com/CloverHackyColor/CloverThemes/cbb6079c16f7e0686b4b31bd415ebcaf3ed3e658/BGM_SVG/theme.svg" class="w3-image w3-left" width="500">
